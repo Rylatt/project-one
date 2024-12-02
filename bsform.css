@@ -25,3 +25,8 @@ h1 {
 .shar {
     width: 300px;
 }
+
+nav {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+}

@@ -28,3 +28,5 @@
 https://youtu.be/DHjqpvDnNGE?si=bX8Yv5a5IWva4EZJ
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+https://www.youtube.com/watch?v=cDA3_5982h8&t=0s
